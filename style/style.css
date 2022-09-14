@@ -504,7 +504,7 @@ footer p {
 @media screen and (max-width: 576px) {
     /* index*/
     .caja{
-        max-width: 576px;
+        max-width: 550px;
     margin: 0 auto;
     }
 
